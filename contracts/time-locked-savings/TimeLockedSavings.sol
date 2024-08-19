@@ -1,5 +1,6 @@
-// SPDX-License-Identifier: UNLICENSED
-pragma solidity ^0.8.9;
+// contracts/GLDToken.sol
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.26;
 
 // Uncomment this line to use console.log
 // import "hardhat/console.sol";
