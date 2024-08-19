@@ -21,5 +21,5 @@ A collection of smart-contract snippets based on random ideas. Any idea goes as 
 
 ## Contracts
 
-- [Time Locked Saving](./contracts/time-locked-savings/README.md): 
-- [Token Faucet](./contracts/token-faucet/README.md): 
+- [Time Locked Saving](./contracts/time-locked-savings)
+- [Token Faucet](./contracts/token-faucet) 
