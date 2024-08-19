@@ -12,6 +12,13 @@ A collection of smart-contract snippets based on random ideas. Any idea goes as 
 - Each on them has their own `README.md` explaining what it's about.
 - Feel free to create a PR, not issue.
 
+## How to create a PR
+- Fork the repo.
+- Follow the strucuture above to add your contract.
+- Add your test file in the test folder.
+- Make sure your test is working.
+- Create PR.
+
 ## Contracts
 
 - [Time Locked Saving](./contracts/time-locked-savings/README.md): 
